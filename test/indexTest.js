@@ -1,3 +1,6 @@
+// Load the functions from index.js
+require('../index.js');
+
 describe('Basketball Stats', function () {
   
   describe('numPointsScored', function () {
